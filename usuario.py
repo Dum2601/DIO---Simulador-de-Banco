@@ -12,7 +12,7 @@ class Usuario:
         numero_conta = len(self.contas) + 1
         nova_conta = Banco(agencia="0001", numero=numero_conta, usuario=self)
         self.contas.append(nova_conta)
-        return nova_conta  # Retorna o objeto Banco, não uma tupla!
+        return nova_conta  
 
     def listar_contas(self):
         return self.contas

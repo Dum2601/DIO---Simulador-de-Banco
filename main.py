@@ -22,7 +22,7 @@ def criar_conta():
         return
     
     usuario = usuarios[cpf]
-    conta = usuario.criar_conta_corrente()  # Retorna um objeto Banco
+    conta = usuario.criar_conta_corrente()  
 
     if conta:
         print(f"Conta criada com sucesso. Agência: {conta.agencia}, Número: {conta.numero}.")
