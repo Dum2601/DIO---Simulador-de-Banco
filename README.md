@@ -1,4 +1,4 @@
-**# Simulador de Banco - DIO
+# Simulador de Banco - DIO
 
 Este projeto é uma simulação de operações bancárias, desenvolvido como parte de um desafio na Digital Innovation One (DIO). 
 
