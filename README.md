@@ -13,7 +13,7 @@ Este projeto é uma simulação de operações bancárias, desenvolvido como par
 1. Certifique-se de ter o Python instalado em seu sistema.
 2. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/DIO---Simulador-de-Banco.git
+   git clone https://github.com/Dum2601/DIO---Simulador-de-Banco
    ```
 3. Acesse o diretório do projeto:
    ```sh
@@ -45,7 +45,7 @@ This project is a simulation of banking operations, developed as part of a chall
 1. Make sure you have Python installed on your system.
 2. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/DIO---Simulador-de-Banco.git
+   git clone https://github.com/Dum2601/DIO---Simulador-de-Banco
    ```
 3. Navigate to the project directory:
    ```sh
@@ -110,7 +110,7 @@ This project is a simulation of banking operations, developed as part of a chall
 1. Make sure you have Python installed on your system.
 2. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/DIO---Simulador-de-Banco.git
+   git clone https://github.com/Dum2601/DIO---Simulador-de-Banco
    ```
 3. Navigate to the project directory:
    ```sh
